@@ -1,0 +1,6 @@
+rm wang/group/study/*.class &
+
+javac wang/group/study/Server.java &
+javac wang/group/study/Client.java &
+java wang/group/study/Server &
+java wang/group/study/Client

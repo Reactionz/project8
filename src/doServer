@@ -1,0 +1,2 @@
+javac wang/group/study/Server.java &
+java wang/group/study/Server

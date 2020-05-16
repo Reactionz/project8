@@ -1,0 +1,5 @@
+javac wang/group/study/*.java
+
+java wang/group/study/Client &
+java wang/group/study/Client &
+java wang/group/study/Client &
